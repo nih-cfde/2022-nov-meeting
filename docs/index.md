@@ -1,8 +1,6 @@
 # The Fall 2022 NIH Common Fund Data Ecosystem Meeting
 
-## Save the Date
-
-**November 8-9, 2022**
+## Save the Date: November 8-9, 2022 
 
 Stay tuned for hotel reservation information and more. 
 
