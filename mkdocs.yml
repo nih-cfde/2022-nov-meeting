@@ -1,0 +1,13 @@
+site_name: CFDE November 2022 Meeting
+
+theme:
+  name: material
+  palette:
+    primary: white
+
+docs_dir: ./docs
+
+nav:
+    - Home: index.md
+    - Code of Conduct: CODEOFCONDUCT.md
+    - COVID-19 Precautions: COVID.md
