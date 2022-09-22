@@ -16,7 +16,7 @@ Stay tuned for a detailed agenda. Presentations and other resources will be avai
 
 Stay tuned for video recordings.
 
-## Resturants
+## Restaurants
 
 Stay tuned for local restaurant suggestions.
 
