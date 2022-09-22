@@ -14,10 +14,6 @@ The safety of CFDE attendees is our top priority.  We will continue to closely m
 
 **All attendees are strongly encouraged to wear face masks in public places throughout the meeting.** 
 
-## The Hotel
-
-Stay tuned for hotel-specific information.
-
 ## Symptoms
 
 **If you present any of the following COVID-19 symptoms, please isolate.** 
