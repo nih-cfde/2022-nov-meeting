@@ -32,7 +32,7 @@ or have any other concerns, please contact our
 [Code of Conduct Team](mailto:autohelp+int+852+1037728591560792003@CFDE.groups.io)
 immediately. If you would prefer to remain anonymous, you can email
 that address using a free single-anonymous email service like
-[Anonymouse](http://anonymouse.org/anonemail.html)
+[Anonymouse](http://anonymouse.org/anonemail.html).
 
 We expect participants to follow these guidelines at any CFDE event.
 

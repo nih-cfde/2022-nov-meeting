@@ -4,7 +4,7 @@ The safety of CFDE attendees is our top priority.  We will continue to closely m
 
 ## Testing 
 
-**Attendees are strongly encouraged to self-administer a lateral flow test each day before entering the conference**. Please allow time to self-test before entering the meeting. Please do not attend the meeting in the event of a positive COVID test in the days leading up to the meeting. Visit the [Montgomery County COVID information portal](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.montgomerycountymd.gov%2Fcovid19%2Ftesting.html&data=05%7C01%7Ckinsingc%40mail.nih.gov%7C73634348915c47a0c2dd08da3e8d7bdd%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637891074789020539%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FNqRJ1scfB2C5SMx5ua6O2olduaRJqIkpoV9Szfj1Xw%3D&reserved=0) for information on local testing facilities. 
+**Attendees are strongly encouraged to self-administer a lateral flow test each day before entering the conference**. Please allow time to self-test before entering the meeting. Please do not attend the meeting in the event of a positive COVID test in the days leading up to the meeting. Visit the [District of Columbia Covid-19 testing sites page](https://coronavirus.dc.gov/testing) for information on local testing facilities. 
 
 ## Vaccines 
 
@@ -13,11 +13,6 @@ The safety of CFDE attendees is our top priority.  We will continue to closely m
 ## Masks 
 
 **All attendees are strongly encouraged to wear face masks in public places throughout the meeting.** 
-
- 
-## The Hotel
-
-Stay tuned for hotel-specific information.
 
 ## Symptoms
 

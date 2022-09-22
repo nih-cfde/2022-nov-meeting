@@ -1,25 +1,47 @@
 # The Fall 2022 NIH Common Fund Data Ecosystem Meeting
 
+The Fall 2022 NIH Common Fund Data Ecosystem Program Meeting presents an opportunity to review progress 
+over the past year and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid 
+event with in-person and remote participation.
+
 ## Save the Date: November 8-9, 2022 
 
-Stay tuned for hotel reservation information and more. 
+### Registration
 
-## Participation
+Register for this event by filling out our **[registration form](https://docs.google.com/forms/d/1F7sGhHlWSQGhqjBEX4pXhN8fIMgS4I4A6AhGpztq3eU/edit)**.
 
-The safety of CFDE attendees was a top priority. Attendees were expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and were strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
+### Hotel Booking
+
+This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC.
+
+Book your stay with our **[hotel booking link](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rooms=1)**.
+
+The Churchill Hotel<br/>
+1914 Connecticut Ave NW<br/>
+Washington, DC 20009<br/>
+
+Phone number: (202) 797-2000
 
 ## Agenda
 
-Stay tuned for a detailed agenda. Presentations and other resources will be available in the [CFDE November Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda).
+Stay tuned for a detailed agenda linked here.
+
+| Day | Time | Topic |
+| --- | --- | --- |
+| Tuesday 11/8| 9 am - 12:30 pm ET | Morning session |
+| Tuesday 11/8 | 1:30 pm - 5 pm ET | Afternoon session |
+| Wednesday 11/9 | 9 am - 12:30 pm ET  | Morning session  |
+| Wednesday 11/9 | 1:30 pm - 5 pm ET | Afternoon session |
+
+Presentations and other resources will be available in the [CFDE November Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda).
+
+## Covid Precautions
+
+The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
 
 ## Video Recordings 
 
 Stay tuned for video recordings.
-
-## Restaurants
-
-Stay tuned for local restaurant suggestions.
-
 
 ## Contact
 
