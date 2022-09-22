@@ -6,7 +6,7 @@ Stay tuned for hotel reservation information and more.
 
 ## Participation
 
-The safety of CFDE attendees was a top priority. Attendees were expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and were strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
+The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
 
 ## Agenda
 
