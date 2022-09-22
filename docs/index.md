@@ -24,8 +24,16 @@ Phone number: (202) 797-2000
 
 ## Agenda
 
+Stay tuned for a detailed agenda linked here.
 
-Stay tuned for a detailed agenda. Presentations and other resources will be available in the [CFDE November Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda).
+| Day | Time | Topic |
+| --- | --- | --- |
+| Tuesday 11/8| 9 am - 12:30 pm ET | Morning session |
+| Tuesday 11/8 | 1:30 pm - 5 pm ET | Afternoon session |
+| Wednesday 11/9 | 9 am - 12:30 pm ET  | Morning session  |
+| Wednesday 11/9 | 1:30 pm - 5 pm ET | Afternoon session |
+
+Presentations and other resources will be available in the [CFDE November Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda).
 
 ## Covid Precautions
 
@@ -34,8 +42,6 @@ The safety of CFDE attendees is a top priority. Attendees are expected to adhere
 ## Video Recordings 
 
 Stay tuned for video recordings.
-
-
 
 ## Contact
 
