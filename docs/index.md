@@ -14,7 +14,7 @@ Register for this event by filling out our **[registration form](https://docs.go
 
 This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC.
 
-Book your stay with our **[hotel booking link](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rooms=1)**. 
+Book your stay with our **[hotel booking link](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rate=1047K3&rooms=1)**. 
 
 **The deadline for booking a hotel for best rates is Friday, October 7**.
 
