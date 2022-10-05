@@ -8,7 +8,7 @@ event with in-person and remote participation.
 
 ### Registration
 
-Register for this event by filling out our **[registration form](https://docs.google.com/forms/d/1F7sGhHlWSQGhqjBEX4pXhN8fIMgS4I4A6AhGpztq3eU/edit)**.
+Register for this event by filling out our **[registration form](https://forms.gle/hD3H5vVMd6Br8dmN7)**.
 
 ### Hotel Booking
 
