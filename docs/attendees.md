@@ -1,6 +1,6 @@
 # Attendees
 
-_Registration list last updated on October 13, 2022._
+_Registration list last updated on October 13, 2022. [Click here to register.](https://forms.gle/uYJNDpd4DrSKwVeL9)_
 
 **Name, Affilation**
 Adam Resnick, Kids First DCC and Role is PI
