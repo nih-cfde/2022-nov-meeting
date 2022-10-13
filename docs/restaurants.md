@@ -10,7 +10,7 @@ _A group dinner is tentatively planned for Tuesday at 6 pm. Stay tuned for updat
 [Map](https://www.google.com/maps/place/Thaiphoon/@38.9143402,-77.0454463,15z/data=!4m2!3m1!1s0x0:0x855eaeb8508c46d?sa=X&ved=2ahUKEwi_hMXdgt76AhVhMjQIHUglBRwQ_BJ6BAhgEAU),
 [Menu](https://www.thaiphoondupont.com/menus/)
 
-## Nearby Resturaunt Suggestions
+## Nearby Restaurant Suggestions
 
 **Anju**
 
