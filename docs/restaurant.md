@@ -2,7 +2,7 @@
 
 ## Tuesday Group Dinner 
 
-_The Tuesday group dinner is **tentatively** planned for Tuesday at 6 pm. Stay tuned for updates._ 
+_A group dinner is **tentatively** planned for Tuesday at 6 pm. Stay tuned for updates._ 
 
 **Thaiphoon**
 
