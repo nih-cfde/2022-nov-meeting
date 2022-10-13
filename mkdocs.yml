@@ -7,6 +7,8 @@ theme:
 
 docs_dir: ./docs
 
+repo_url: https://github.com/nih-cfde/2022-nov-meeting/
+
 nav:
     - About: index.md
     - Attendees: attendees.md
