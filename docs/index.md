@@ -1,8 +1,7 @@
 # The Fall 2022 NIH Common Fund Data Ecosystem Meeting
 
 The Fall 2022 NIH Common Fund Data Ecosystem Program Meeting presents an opportunity to review progress 
-over the past year and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid 
-event with in-person and remote participation.
+over the past year and discuss strategic issues that impact the ecosystem as a whole. This is primarily an in-person event but some remote participation will be facilitated.
 
 ## Save the Date: November 8-9, 2022 
 
