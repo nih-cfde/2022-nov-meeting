@@ -26,15 +26,18 @@ Stay tuned for a detailed agenda linked here.
 | --- | --- | --- |
 | Tuesday 11/8| 9 am - 12:30 pm ET | Morning session |
 | Tuesday 11/8 | 1:30 pm - 5 pm ET | Afternoon session |
+| Tuesday 11/8 | 6 pm - 9 pm ET | Group dinner |
 | Wednesday 11/9 | 9 am - 12:30 pm ET  | Morning session  |
-| Wednesday 11/9 | 1:30 pm - 5 pm ET | Afternoon session |
+| Wednesday 11/9 | 1:30 pm - 3 pm ET | Afternoon session |
 
-Presentations and other resources will be available in the [CFDE November Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda).
 
-## Covid Precautions
+## Safety
 
-The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
+The safety of CFDE attendees is a top priority. Attendees are expected to adhere to the [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/). 
 
+## Information for Presenters
+
+Though primarily an in-person meeting, all presentations will be delivered in a hybrid format to accommodate remote participation. Speakers _must_ use the hotel-provided laptop for presentations. Please upload your presentation to [Google Drive](https://drive.google.com/drive/folders/1voSQgeraQWCMPc6R_YjlSfhYtC71Cl4t) or a USB drive by Monday, November 7. The hotel room will be set up with multiple screens as well as audio input and output to facilitate discussion with remote participants. 
 
 ## Contact
 
