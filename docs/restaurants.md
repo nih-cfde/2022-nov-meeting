@@ -2,7 +2,7 @@
 
 ## Tuesday Group Dinner 
 
-_A group dinner is tentatively planned for Tuesday at 6 pm. Stay tuned for updates._ 
+A group dinner is tentatively planned for Tuesday at 6 pm at Thaiphoon. Please fill out [this form](https://forms.gle/eg56LViZkUfBWvXv7) if you plan on attending the group dinner. 
 
 **Thaiphoon**
 
