@@ -11,7 +11,7 @@ Register for this event by filling out our **[registration form](https://forms.g
 
 ### Hotel Booking
 
-This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC. The deadline for [booking a hotel room](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rate=1047K3&rooms=1) has past. We are working with the hotel to ensure that everyone receives the discounted rate. 
+This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC. The deadline for [booking a hotel room](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rate=1047K3&rooms=1) has passed. We are working with the hotel to ensure that everyone receives the discounted rate. 
 
 The Churchill Hotel<br/>
 1914 Connecticut Ave NW<br/>
