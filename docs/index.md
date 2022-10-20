@@ -37,4 +37,5 @@ The safety of CFDE attendees is a top priority. Attendees are expected to adhere
 
 
 ## Contact
-Plese use the #2022-nov-meeting slack channel for general dicussions and inqueries or contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net). 
+
+Please use the #2022-nov-meeting slack channel for general discussions and inquiries or contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net). 
