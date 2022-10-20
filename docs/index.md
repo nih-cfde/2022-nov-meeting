@@ -35,10 +35,6 @@ Presentations and other resources will be available in the [CFDE November Meetin
 
 The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-nov-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-nov-meeting/COVID/).
 
-## Video Recordings 
-
-Stay tuned for video recordings.
 
 ## Contact
-
-For questions or concerns contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
+Plese use the #2022-nov-meeting slack channel for general dicussions and inqueries or contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net). 
