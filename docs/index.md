@@ -26,7 +26,7 @@ Stay tuned for a detailed agenda linked here.
 | --- | --- | --- |
 | Tuesday 11/8| 9 am - 12:30 pm ET | Morning session |
 | Tuesday 11/8 | 1:30 pm - 5 pm ET | Afternoon session |
-| Tuesday 11/8 | 6 pm - 9 pm ET | Group dinner |
+| Tuesday 11/8 | 6 pm - 9 pm ET | Group dinner [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)|
 | Wednesday 11/9 | 9 am - 12:30 pm ET  | Morning session  |
 | Wednesday 11/9 | 1:30 pm - 3 pm ET | Afternoon session |
 
