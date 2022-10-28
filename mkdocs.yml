@@ -15,3 +15,6 @@ nav:
     - Code of Conduct: CODE_OF_CONDUCT.md
     - COVID-19 Precautions: COVID.md
     - Restaurants: restaurants.md
+    
+extra_javascript:
+  - javascripts/matomo.js
