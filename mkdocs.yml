@@ -19,4 +19,4 @@ nav:
 extra:
   analytics:
     provider: custom
-    property: foobar
+    property: matomo
