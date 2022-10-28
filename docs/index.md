@@ -20,16 +20,34 @@ Phone number: (202) 797-2000
 
 ## Agenda
 
-Stay tuned for a detailed agenda linked here.
+[Click here for detailed agenda.](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda) All times are shown in Eastern Time.
 
-| Day | Time | Topic |
+## Day 1: Tuesday, November 8
+
+| Time | Topic | Presenter |
+| --- | --- |  --- |
+| 9:00 am | Welcome and Logistics | Titus Brown
+| 9:10 am | NIH Remarks | Elizabeth Wilder, George Papanicolaou
+| 9:30 am | Overview of Y3 Partnership Efforts | Avi Ma’ayan, Kristin Ardlie, Jonathan Silverstein, Aleks Milosavljevic, Srini Ramachandran
+| 10:30 am | Morning Break | |
+| 11:00 am | Use Cases | Matt Roth |
+| 12:30 pm | Lunch | |
+| 1:30 pm | Training | Raja Mazumder |
+| 3:00 pm | Afternoon Break | |
+| 3:30 pm | Outreach | Kristin Ardlie |
+| 5:00 pm | End | |
+| 6:00 pm | Group dinner | [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)| 
+
+## Day 2: Wednesday, November 9
+
+| Time | Topic | Presenter |
 | --- | --- | --- |
-| Tuesday 11/8| 9 am - 12:30 pm ET | Morning session |
-| Tuesday 11/8 | 1:30 pm - 5 pm ET | Afternoon session |
-| Tuesday 11/8 | 6 pm - 9 pm ET | Group dinner [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)|
-| Wednesday 11/9 | 9 am - 12:30 pm ET  | Morning session  |
-| Wednesday 11/9 | 1:30 pm - 3 pm ET | Afternoon session |
-
+| 9:00 am | Data-Intensive CF Programs | Matthew Wheeler, Grace Peng, Monica Munoz-Torres, Martin Lindquist, Nadra Tyus, Kate Burdekin| 
+| 10:30 am | Morning Break | |
+| 11:00 am | What does it mean to align/engage with CFDE? | Owen White |
+| 12:30 pm | Lunch | Open Platform Discussion | Aleks Milosavljevic,  Adam Resnick| 
+| 3:00 pm | Wrap Up and Next Steps | George Papanicolaou | 
+| 3:15 pm | End | |
 
 ## Safety
 
