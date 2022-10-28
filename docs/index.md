@@ -22,7 +22,7 @@ Phone number: (202) 797-2000
 
 [Click here for detailed agenda.](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda) All times are shown in Eastern Time.
 
-## Day 1: Tuesday, November 8
+### Day 1: Tuesday, November 8
 
 | Time | Topic | Presenter |
 | --- | --- |  --- |
@@ -38,7 +38,7 @@ Phone number: (202) 797-2000
 | 5:00 pm | End | |
 | 6:00 pm | Group Dinner | [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)| 
 
-## Day 2: Wednesday, November 9
+### Day 2: Wednesday, November 9
 
 | Time | Topic | Presenter |
 | --- | --- | --- |
