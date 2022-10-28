@@ -36,7 +36,7 @@ Phone number: (202) 797-2000
 | 3:00 pm | Afternoon Break | |
 | 3:30 pm | Outreach | Kristin Ardlie |
 | 5:00 pm | End | |
-| 6:00 pm | Group dinner | [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)| 
+| 6:00 pm | Group Dinner | [Sign-up here!](https://forms.gle/eg56LViZkUfBWvXv7)| 
 
 ## Day 2: Wednesday, November 9
 
@@ -44,7 +44,7 @@ Phone number: (202) 797-2000
 | --- | --- | --- |
 | 9:00 am | Data-Intensive CF Programs | Matthew Wheeler, Grace Peng, Monica Munoz-Torres, Martin Lindquist, Nadra Tyus, Kate Burdekin| 
 | 10:30 am | Morning Break | |
-| 11:00 am | What does it mean to align/engage with CFDE? | Owen White |
+| 11:00 am | What Does It Mean to Align/Engage with CFDE? | Owen White |
 | 12:30 pm | Lunch | Open Platform Discussion | Aleks Milosavljevic,  Adam Resnick| 
 | 3:00 pm | Wrap Up and Next Steps | George Papanicolaou | 
 | 3:15 pm | End | |
