@@ -16,5 +16,7 @@ nav:
     - COVID-19 Precautions: COVID.md
     - Restaurants: restaurants.md
     
-extra_javascript:
-  - javascripts/matomo.js
+extra:
+  analytics:
+    provider: custom
+    property: foobar
