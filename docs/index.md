@@ -3,7 +3,7 @@
 The Fall 2022 NIH Common Fund Data Ecosystem Program Meeting presents an opportunity to review progress 
 over the past year and discuss strategic issues that impact the ecosystem as a whole. This is primarily an in-person event but some remote participation will be facilitated.
 
-## Save the Date: November 8-9, 2022 
+## November 8-9, 2022 
 
 ### Registration
 
@@ -11,7 +11,7 @@ Register for this event by filling out our **[registration form](https://forms.g
 
 ### Hotel Booking
 
-This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC. The deadline for [booking a hotel room](https://be.synxis.com/?adult=1&arrive=2022-11-07&chain=5415&child=0&currency=USD&depart=2022-11-10&hotel=12885&level=hotel&locale=en-US&rate=1047K3&rooms=1) has passed. We are working with the hotel to ensure that everyone receives the discounted rate. 
+This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC. 
 
 The Churchill Hotel<br/>
 1914 Connecticut Ave NW<br/>
@@ -20,7 +20,9 @@ Phone number: (202) 797-2000
 
 ## Agenda
 
-[Click here for detailed agenda.](https://drive.google.com/drive/folders/1dAMScpSuxkQlyPtjO_djskfR2ReDtVda) All times are shown in Eastern Time.
+Click here to view the [detailed agenda](https://drive.google.com/file/d/152EfG4TS4zfhdn81P4JNY5IkWuy1HYIV/view?usp=share_link), the [presentations](https://drive.google.com/drive/folders/1voSQgeraQWCMPc6R_YjlSfhYtC71Cl4t?usp=share_link), and the [session notes](https://drive.google.com/drive/folders/1AkzYrWWTh8brSLF4vS_APBwFXKH_HLO7?usp=share_link). 
+
+_All times are shown in Eastern Time._
 
 ### Tuesday, November 8
 
