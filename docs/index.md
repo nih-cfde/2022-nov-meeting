@@ -48,9 +48,9 @@ _All times are shown in Eastern Time._
 | 10:30 am | Morning Break | | |
 | 11:00 am | What Does It Mean to Align/Engage with CFDE? | Owen White | [Notes](https://docs.google.com/document/d/15kA45_KljzfDYDS46sm4AMHZUx202uGqq7H4ANUy9u4/edit?usp=share_link) |
 | 12:30 pm | Lunch | | |
-| 1:30 pm | Open Platform Discussion | Aleks Milosavljevic,  Adam Resnick |  |
-| 3:00 pm | Wrap Up and Next Steps | George Papanicolaou | 
-| 3:15 pm | End | |
+| 1:30 pm | Open Platform Discussion | Aleks Milosavljevic,  Adam Resnick | [Notes](https://docs.google.com/document/d/1HGAC3fmTugRA0fLD-GMCNVUQwvh5_etdiZ7fBq4ccJQ/edit?usp=sharing) |
+| 3:00 pm | Wrap Up and Next Steps | George Papanicolaou | |
+| 3:15 pm | End | | |
 
 ## Safety
 
