@@ -1,22 +1,9 @@
-# The Fall 2022 NIH Common Fund Data Ecosystem Meeting
+# The Fall 2022 NIH Common Fund Data Ecosystem Meeting November 8-9, 2022 
 
 The Fall 2022 NIH Common Fund Data Ecosystem Program Meeting presents an opportunity to review progress 
 over the past year and discuss strategic issues that impact the ecosystem as a whole. This is primarily an in-person event but some remote participation will be facilitated.
 
-## November 8-9, 2022 
-
-### Registration
-
-Register for this event by filling out our **[registration form](https://forms.gle/hD3H5vVMd6Br8dmN7)**.
-
-### Hotel Booking
-
-This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) in Washington, DC. 
-
-The Churchill Hotel<br/>
-1914 Connecticut Ave NW<br/>
-Washington, DC 20009<br/>
-Phone number: (202) 797-2000
+This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) at [1914 Connecticut Ave NW Washington, DC 20009](https://goo.gl/maps/BSnXpTTY1WTpbg188). Phone: (202) 797-2000
 
 ## Agenda
 
