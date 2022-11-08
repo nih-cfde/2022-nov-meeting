@@ -21,7 +21,7 @@ _All times are shown in Eastern Time._
 | 10:30 am | Morning Break | |
 | 11:00 am | Use Cases | Matt Roth |[Notes](https://docs.google.com/document/d/1pPa4jWUQnnmZOUjNtXZzJXjYSbNH70ZY0eC4QypHvgM/edit?usp=share_link) |
 | 12:30 pm | Lunch | | |
-| 1:30 pm | Training | Raja Mazumder | [Notes](https://docs.google.com/document/d/1_dhBxxyeZ9NAsxyO-Xo-vGB3N7L5K8QpyzGwVFswc2s/edit?usp=share_link) |
+| 1:30 pm | Training | Raja Mazumder | [Reporting Spreadsheet](https://docs.google.com/spreadsheets/d/1IwhAwMJs5vvROxxHo5Y59AXNfnw7bCk4Si9bRaf14_0/edit#gid=0) [Notes](https://docs.google.com/document/d/1_dhBxxyeZ9NAsxyO-Xo-vGB3N7L5K8QpyzGwVFswc2s/edit?usp=share_link)|
 | 3:00 pm | Afternoon Break | | |
 | 3:30 pm | Outreach | Kristin Ardlie | [Notes](https://docs.google.com/document/d/1zbzzgCKRfDIXu3mw0kL5WONZu4Wt5eLRRQnRcuajBKM/edit?usp=share_link) |
 | 5:00 pm | End | |
