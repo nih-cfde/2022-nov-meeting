@@ -12,7 +12,7 @@ repo_url: https://github.com/nih-cfde/2022-nov-meeting/
 nav:
     - About: index.md
     - Attendees: attendees.md
-    - Code of Conduct: CODE_OF_CONDUCT.md
+    - Code of Conduct: CODEOFCONDUCT.md
     - COVID-19 Precautions: COVID.md
     - Restaurants: restaurants.md
     
