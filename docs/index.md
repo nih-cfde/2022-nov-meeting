@@ -17,7 +17,7 @@ _All times are shown in Eastern Time._
 | --- | --- | --- | --- |
 | 9:00 am | Welcome and Logistics | Titus Brown | |
 | 9:10 am | NIH Remarks | Elizabeth Wilder, George Papanicolaou | |
-| 9:30 am | Overview of Y3 Partnership Efforts | Avi Ma’ayan, Kristin Ardlie, Jonathan Silverstein, Aleks Milosavljevic, Srini Ramachandran | [Notes](https://docs.google.com/document/d/1HGAC3fmTugRA0fLD-GMCNVUQwvh5_etdiZ7fBq4ccJQ/edit?usp=share_link) |
+| 9:30 am | Overview of Y3 Partnership Efforts | Playbook: Avi Ma’ayan <br> RNA-Seq: Kristin Ardlie <br> Data Distillery: Jonathan Silverstein <br> Variant: Aleks Milosavljevic <br> CLOVoc: Srini Ramachandran | [Notes](https://docs.google.com/document/d/1HGAC3fmTugRA0fLD-GMCNVUQwvh5_etdiZ7fBq4ccJQ/edit?usp=share_link) |
 | 10:30 am | Morning Break | |
 | 11:00 am | Use Cases | Matt Roth |[Notes](https://docs.google.com/document/d/1pPa4jWUQnnmZOUjNtXZzJXjYSbNH70ZY0eC4QypHvgM/edit?usp=share_link) |
 | 12:30 pm | Lunch | | |
