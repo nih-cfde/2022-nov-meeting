@@ -3,11 +3,17 @@
 The Fall 2022 NIH Common Fund Data Ecosystem Program Meeting presents an opportunity to review progress 
 over the past year and discuss strategic issues that impact the ecosystem as a whole. This is primarily an in-person event but some remote participation will be facilitated.
 
-This event will take place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) at [1914 Connecticut Ave NW Washington, DC 20009](https://goo.gl/maps/BSnXpTTY1WTpbg188). Phone: (202) 797-2000
+This event will took place in [The Churchill Hotel near Embassy Row](https://www.thechurchillhotel.com/) at [1914 Connecticut Ave NW Washington, DC 20009](https://goo.gl/maps/BSnXpTTY1WTpbg188). Phone: (202) 797-2000
 
-## Agenda and Resources
+## Meeting Outputs
 
-Click here to view the [detailed agenda](https://drive.google.com/file/d/152EfG4TS4zfhdn81P4JNY5IkWuy1HYIV/view?usp=share_link), the [presentations](https://drive.google.com/drive/folders/1voSQgeraQWCMPc6R_YjlSfhYtC71Cl4t?usp=share_link), the [session notes](https://drive.google.com/drive/folders/1AkzYrWWTh8brSLF4vS_APBwFXKH_HLO7?usp=share_link), the [Day 1 video recording](https://drive.google.com/file/d/1NLps79NVUQJv1xekxvSweE0vXSrl0nss/view?usp=share_link), and the [Day 2 video recording](https://drive.google.com/file/d/1u2EoqjYAcGsQQE_WPkk90kZw0fxs6asz/view?usp=share_link).
+- [Agenda](https://drive.google.com/file/d/152EfG4TS4zfhdn81P4JNY5IkWuy1HYIV/view?usp=share_link)
+- [Day 1 video recording](https://drive.google.com/file/d/1NLps79NVUQJv1xekxvSweE0vXSrl0nss/view?usp=share_link)
+- [Day 2 video recording](https://drive.google.com/file/d/1u2EoqjYAcGsQQE_WPkk90kZw0fxs6asz/view?usp=share_link)
+- [Presentations](https://drive.google.com/drive/folders/1voSQgeraQWCMPc6R_YjlSfhYtC71Cl4t?usp=share_link)
+- [Session Notes](https://drive.google.com/drive/folders/1AkzYrWWTh8brSLF4vS_APBwFXKH_HLO7?usp=share_link)
+
+## Agenda
 
 ### Tuesday, November 8
 
