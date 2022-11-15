@@ -31,11 +31,13 @@ _All times are shown in Eastern Time._
 
 | Time | Topic | Presenter | Links |
 | --- | --- | --- | --- |
-| 9:00 am | Data-Intensive CF Programs | Matthew Wheeler, Grace Peng, Monica Munoz-Torres, Martin Lindquist, Nadra Tyus, Kate Burdekin | [Notes](https://docs.google.com/document/d/1WxNf17fXR_Lz9EdC7AkEH9QhkKmX-mR9nuY1aOekUnU/edit?usp=share_link)
+| 9:00 am | Data-Intensive CF Programs | Molecular Transducers of Physical Activity
+Consortium (MoTrPAC): Matthew Wheeler <br> Bridge to Artificial Intelligence (B2AI):  Grace Peng and  Monica Munoz-Torres <br> Acute to Chronic Pain Signatures (A2CPS): Martin Lindquist <br> Community Partnerships to Advance
+Science for Society (ComPASS): Nadra Tyus <br> Nutrition for Precision Health (NPH): Kate Burdekin | [Notes](https://docs.google.com/document/d/1WxNf17fXR_Lz9EdC7AkEH9QhkKmX-mR9nuY1aOekUnU/edit?usp=share_link)
 | 10:30 am | Morning Break | | |
 | 11:00 am | What Does It Mean to Align/Engage with CFDE? | Owen White | [Notes](https://docs.google.com/document/d/15kA45_KljzfDYDS46sm4AMHZUx202uGqq7H4ANUy9u4/edit?usp=share_link), [Spreedsheet](https://docs.google.com/spreadsheets/d/1adOTa_2wpL45O93aOgww8mnhyxBUOMI8rGdAAJBDSOg/edit?usp=sharing) |
 | 12:30 pm | Lunch | | |
-| 1:30 pm | Open Platform Discussion | Aleks Milosavljevic,  Adam Resnick | [Notes](https://docs.google.com/document/d/1E_W8VWn_sxedwimAwFyffDu6qO1kgr0sYaKP2vFfDDw/edit?usp=sharing) |
+| 1:30 pm | Open Platform Discussion | Aleks Milosavljevic and Adam Resnick | [Notes](https://docs.google.com/document/d/1E_W8VWn_sxedwimAwFyffDu6qO1kgr0sYaKP2vFfDDw/edit?usp=sharing) |
 | 3:00 pm | Wrap Up and Next Steps | George Papanicolaou | |
 | 3:15 pm | End | | |
 
